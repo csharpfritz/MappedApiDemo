@@ -1,0 +1,14 @@
+[
+	{
+		"ContactId": 1,
+		"Name": "Fritz",
+		"City": "Philadelphia",
+		"Age": 32
+	},
+	{
+		"ContactId": 2,
+		"Name": "Sally",
+		"City": "New York",
+		"Age": 22
+	}
+]
